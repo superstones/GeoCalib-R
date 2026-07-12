@@ -39,4 +39,4 @@ python train/run_gtsam_full_eval.py --viewer build/Release/v2x_gtsam_viewer.exe 
 python train/run_gtsam_full_eval.py --viewer build/Release/v2x_gtsam_viewer.exe --skip-dair --per-sequence-v2x
 ```
 
-The repository does not include datasets, exported point clouds, build outputs, rendered images, screenshots, or paper editing scripts.
+The repository does not include datasets, exported point clouds, build outputs, rendered images, or paper editing scripts.
